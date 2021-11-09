@@ -1,4 +1,14 @@
 #abo{
-    background-color: rgb(163, 241, 38);
+    background-color: rgb(191, 194, 186);
+
+}
+#hd{
+    display:inline-flex;
+    width: 100%;
+    gap: 25px;
+    font-size: 30;
+    font-family: initial;
+    background-color: rgb(236, 222, 20);
+  
 
 }
